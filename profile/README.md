@@ -4,7 +4,7 @@
  <tr>
  <td width="230" align="center" valign="middle">
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYPDvL9ZfLQn9jdLGSP3E_Ma9TOvQ1vB7-hQ&s" width="200" alt="Celemony Melodyne Studio macOS application icon"><br>
- <a href="https://app-quick-app.github.io/.github/CelemonyMelodyneStudio">
+ <a href="https://gnomik-gomik-apps.github.io/.github/CelemonyMelodyneStudio">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open Celemony Melodyne Studio macOS page">
  </a><br><br>
  <div align="center">
